@@ -6,3 +6,6 @@ crashdump/*
 conf/*
 characterdata/*
 cache/*
+
+# Assets backup files
+*-bak
