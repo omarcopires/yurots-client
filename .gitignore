@@ -6,6 +6,7 @@ crashdump/*
 conf/*
 characterdata/*
 cache/*
+localhost.exe
 
 # Assets backup files
 *-bak
