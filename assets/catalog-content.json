@@ -35526,5 +35526,13 @@
     "firstspriteid": 262699,
     "lastspriteid": 262706,
     "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-38412ae187bd4485185106eeffb84aae03ee2c3dc38d53fb6b55e93058853602.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 262707,
+    "lastspriteid": 262736,
+    "area": 0
   }
 ]
