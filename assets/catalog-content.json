@@ -35593,10 +35593,18 @@
   },
   {
     "type": "sprite",
-    "file": "sprites-c1fe8aa998cad4b22db2b2a0eecf3aab0d9b4f47e06a39debbfe7447fd8554c0.bmp.lzma",
+    "file": "sprites-a3b86f090c7785078f990af79892e18008c5db37d4e725386d957c51c3b6cf9a.bmp.lzma",
     "spritetype": 3,
     "firstspriteid": 262823,
-    "lastspriteid": 262849,
+    "lastspriteid": 262823,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-07d0352e61bf4fc2bc645c0b9c98b423975c1c989ad25ee01ed1424575f6d8d1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 262824,
+    "lastspriteid": 262850,
     "area": 0
   }
 ]
