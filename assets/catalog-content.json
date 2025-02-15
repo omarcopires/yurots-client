@@ -35774,5 +35774,37 @@
     "firstspriteid": 263526,
     "lastspriteid": 263539,
     "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-01d8056a65b81fb87e46744165e35d98be97b6df26b04e8c7098065d1ac0d5e1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 263540,
+    "lastspriteid": 263575,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5fe2e67702889a78fba4e133648e9fcd391b90246c6d7c4eba41477343dff7b9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 263576,
+    "lastspriteid": 263611,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-91b95d68380e682e40435da0b8b0f9e24c378e165d288d949e3434cb9e4fa1b1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 263612,
+    "lastspriteid": 263647,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a6e5a45ed86a7a61fb3a17b5a048e422390df1cd64e82790e2da7947e11ce509.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 263648,
+    "lastspriteid": 263649,
+    "area": 0
   }
 ]
