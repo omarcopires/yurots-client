@@ -1,0 +1,12 @@
+# User-specific files
+storeimages/*
+screenshots/*
+log/*
+crashdump/*
+conf/clientoptions.json
+characterdata/*
+cache/*
+localhost.exe
+
+# Assets backup files
+*-bak
