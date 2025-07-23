@@ -36798,5 +36798,21 @@
     "firstspriteid": 272404,
     "lastspriteid": 272449,
     "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0a55ab3f1acc2a06d825c3c8386bc2e3ec911ff841e6b9a53c224e4f8e140082.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 272450,
+    "lastspriteid": 272457,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0bf2e53bb9c97105827e4eaefa92e3ee36b83af7bc2604a86fa3d6960fa8d1e4.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 272458,
+    "lastspriteid": 272462,
+    "area": 0
   }
 ]
